@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149885742430",
+    "project_id": "bmic-a0fba",
+    "storage_bucket": "bmic-a0fba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149885742430:android:3bd7193e16e5138db2b3cf",
+        "android_client_info": {
+          "package_name": "com.example.bmic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149885742430-rb9k29tv6l3glu5g23scc9vc076etqeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy1PfY4BPd8L-pXFVl6mH5DEb27whF_9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149885742430-rb9k29tv6l3glu5g23scc9vc076etqeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
