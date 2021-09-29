@@ -1,4 +1,4 @@
-import 'package:bmic/screen/signin.dart';
+import 'package:bmic/widjet/login/email_login.dart';
 import 'package:flutter/material.dart';
 import 'package:bmic/screen/home.dart';
 import 'package:hexcolor/hexcolor.dart';
@@ -42,7 +42,7 @@ class _LoadingPageState extends State<LoadingPage> {
       Duration(seconds: 5),
       () {
         Navigator.pushReplacement(
-            context, MaterialPageRoute(builder: (context) => Emaillogin()));
+            context, MaterialPageRoute(builder: (context) => Email_login()));
       },
     );
   }
